@@ -1,0 +1,38 @@
+.red {
+    color: red;
+}
+
+.favoriteC1 {
+    color: blue;
+}
+
+.favoriteC2 {
+    color: yellow;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background: purple;
+}
+
+.wordbox1 {
+    height: 300px;
+    width: 550px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background: orange;
+}
+
+.wordbox2 {
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background: grey;
+}
